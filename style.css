@@ -35,10 +35,15 @@ body {
 }
 
 .profile_name {
-  float: left;
-  padding-left: 2cm;
-  /* Add the styles here */
-}
+    float: left;
+    padding-left: 2cm;
+    font-size: 20px; 
+    color: #333; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+    text-align: left; 
+    line-height: 1.5; 
+  }
 
 .profile_name .contact_info {
   font-size: 15px;
